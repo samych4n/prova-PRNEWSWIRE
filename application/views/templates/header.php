@@ -6,5 +6,7 @@
 				<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         </head>
         <body>
-
-                <h1><?php echo $title; ?></h1>
+			<div class="jumbotron text-center">
+				<h1><?php echo $title; ?></h1> 
+			</div>
+             
